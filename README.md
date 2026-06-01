@@ -1,0 +1,1 @@
+# AromaPOS-Images
